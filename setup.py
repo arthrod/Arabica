@@ -18,7 +18,7 @@ with open("README.md", "r") as fh:
         url="https://github.com/PetrKorab/Arabica",
         python_requires=>3.9,
         install_requires = ['pandas == 1.4.0',
-                            'nltk == 3.6.2',
+                            'nltk == 3.9.4',
                             'regex == 2022.10.31',
                             'finvader',
                             'matplotlib == 3.6.0',
