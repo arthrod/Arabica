@@ -29,6 +29,6 @@ with open("README.md", "r") as fh:
                             'vaderSentiment == 3.3.2',
                             'cleantext == 1.1.4',
                             'mizani == 0.9.2',
-                            'pillow == 9.4.0'],
+                            'pillow == 12.2.0'],
         license='OSI Approved :: Apache Software License'
     )
